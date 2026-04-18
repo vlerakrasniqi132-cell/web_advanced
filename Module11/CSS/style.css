@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    front-famely: Arial
+
+
+
+    /*margin-top:100px;
+    margin-bottom:100px;
+    margin-left:150px;
+    margin-right:80px;
+
+    margin: 100px 80px 100px 150px;
+
+    margin: 1px;*/
+
+    margin: 100px 80px 50px;
+
+
+}
+
+.box{
+    width: 300px;
+    height: 250;
+    border:5 px dashed lightblue;
+    margin: 30px;
+    background-color: beige;
+}

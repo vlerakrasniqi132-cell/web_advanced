@@ -1,0 +1,32 @@
+h1{
+    color:green;
+    letter-spacing: 20px;
+    word-spacing: 20px;
+    writing: mode: vertical-lr;
+}
+
+p{
+  text-indent: 50px;
+  text-align: center;
+}
+
+H2{
+
+text-decoration: OVERLINE;
+
+}   
+
+H3{
+
+text-decoration: line-throhg;
+
+
+}
+
+
+h4{
+
+text-decoration: underline;
+
+
+}

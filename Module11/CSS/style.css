@@ -24,4 +24,7 @@ body{
     border:5 px dashed lightblue;
     margin: 30px;
     background-color: beige;
+    box-sizing; border-box;
+
+    
 }

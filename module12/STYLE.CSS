@@ -1,4 +1,10 @@
+@font-face{
+font-family: "Fake identity";
+src:url("fonts/Fake\ Identity.ttf")
+
+}
 h1{
+
     color:green;
     letter-spacing: 20px;
     word-spacing: 20px;
@@ -8,6 +14,7 @@ h1{
 p{
   text-indent: 50px;
   text-align: center;
+  font-family: "fake identity";
 }
 
 H2{
@@ -18,15 +25,37 @@ text-decoration: OVERLINE;
 
 H3{
 
-text-decoration: line-throhg;
+text-decoration: line-through;
 
 
 }
 
 
 h4{
-
 text-decoration: underline;
+}
+
+p{
+ font-family: 'Times New Roman', Times, serif;
 
 
 }
+
+.myElement{
+color:blue
+}
+
+#normalText{
+  font size:normal ;
+  font-
+}
+
+#italicText{
+  font size:italic ;
+}
+
+#obliqueText{
+  font size:oblique ;
+}
+
+

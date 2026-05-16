@@ -1,0 +1,19 @@
+article p{
+    background-color: aqua;
+    color: antiquewhite;
+    padding:20px
+}
+
+article > P{
+background-color: brown;
+}
+
+article ~ p{
+background-color: aliceblue;
+color: aqua;
+padding: 20px;
+}
+
+article + p {
+    background-color: orange;
+}

@@ -1,0 +1,23 @@
+/*ZOOM IN*/
+
+#speedsters img{
+    transform: scale(1);
+    transition: .3s ease-in-out;
+}
+
+#speedsters:hover img{
+     transform: scale(1.3);
+}
+
+/* SLIDE */
+
+#hipsters.img{
+    margin-left: 0px;
+    transition: .3s ease-in-out;
+}
+
+#hipsters.img{
+    margin-left: 100px;
+
+    
+   

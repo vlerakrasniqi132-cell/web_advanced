@@ -1,0 +1,55 @@
+div.gallery{
+    margin:5px;
+    border: 1px solid #ccc;
+    float: left;
+    width:180px;
+}
+
+div.gallery:hover{
+    border: 1px solid#777
+}
+
+div.gallery img{
+    border: 1px solid #777
+}
+
+div.desc{
+    padding: 15px;
+    text-align: center;
+}
+
+.sprite{
+    background: url("houses.png");
+}
+
+.engineers{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    background-position: 0px 0px;
+
+}
+
+.shadows{
+     width: 500px;
+    height: 500px;
+    display: inline-block;
+background-position: -500px -500px;
+}
+
+a[https://shkolladigjitale.com]{
+
+}
+
+p[class*=ds]{ 
+    background-color: green;
+color: aliceblue;
+padding: 20px;
+
+}
+
+/*
+^='ds'  -kur filon me ds
+
+
+

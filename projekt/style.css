@@ -1,0 +1,35 @@
+h1{
+    background-color: rgb(209, 154, 245);
+    color: rgb(128, 77, 179);
+    font-weight: 200px;
+    font-size: 65px;
+    padding: 5px;
+    left: auto;
+    right: auto;
+}
+
+
+p{
+    color: rgb(188, 98, 211);
+    background-color: rgb(239, 230, 248);
+    font-size: 25px;
+}
+
+h2{
+   background-color: rgb(182, 123, 236);
+   color: rgb(116, 44, 184);
+   font-size: 65px;  
+   padding: 5px; 
+   left: auto;
+   right: auto;
+}
+
+
+h3{
+ background-color: rgb(182, 123, 236);
+   color: rgb(116, 44, 184);
+   font-size: 65px;  
+   padding: 5px; 
+   left: auto;
+   right: auto;
+}

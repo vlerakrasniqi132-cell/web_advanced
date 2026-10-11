@@ -14,3 +14,23 @@ p{
     color: #305996;
     font-size: 20px;
 }
+
+
+h2{
+    background-color: rgb(164, 62, 62);
+    color: rgb(49, 13, 13);
+    font-weight: 200px;
+    font-size: 65px;
+    padding: 10px;
+    border-radius:10px;
+    transition: transform 0.5s ease;
+    margin-left:40px;
+    margin-right:40px;
+}
+
+img{
+    height: auto;
+    border-radius: 10px;
+    margin-left:40px;
+    margin-right:40px;
+}

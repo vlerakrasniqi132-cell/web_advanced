@@ -57,3 +57,10 @@ tr:nth-child(even) {
 tr:hover {
   background-color: rgb(117, 76, 83);
 }
+
+ img{
+    height: auto;
+    border-radius: 10px;
+    margin-left:40px;
+    margin-right:40px;
+}

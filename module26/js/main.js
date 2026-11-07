@@ -12,7 +12,6 @@ var c=30;
 var d = b+c;
 console.log(d);
 
-
 var e= 40;
 var f=10;
 var g = e+f;
@@ -68,11 +67,9 @@ var num1=100;
 var num2=10;
 console.log(num1>num2);
 
-
 var num3=1;
 var num4=2;
 console.log(num3>num4);
-
 
 var num5=123;
 var num6="123";
